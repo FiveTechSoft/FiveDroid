@@ -1,2 +1,2 @@
 # FiveDroid
-Android GUI for Harbour
+Android GUI for Harbour using Android Studio
